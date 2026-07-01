@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0356/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 相續解脫地波羅蜜了義經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0678.xml
+    old_id: T16n0678
+hash: sha256:6fd013803ed736a5caaf4d0fe3c16188e958312c388b062210e5142792a5dece

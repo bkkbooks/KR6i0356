@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0356/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0356/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 相續解脫地波羅蜜了義經
+  identifiers:
+    krp: KR6i0356
+    cbeta: T16n0678
+    cbeta_old_id: T16n0678
+    authorityid: CA0003560
+    json_key: T0678
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0678.xml
+    old_id: T16n0678
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0356_000-T.yaml, hash: 'sha256:6fd013803ed736a5caaf4d0fe3c16188e958312c388b062210e5142792a5dece'}
+  - {seq: 1, filename: KR6i0356_001-T.yaml, hash: 'sha256:34f724fde010b1215dd17e895ba4b69a13abfe1a9ed1d5e76c8901505c0ed5e7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0356_000-T.markers.yaml, hash: 'sha256:0d0d2e48bf1812384872f8304e365de720a081166c0edc575786cbe4383e53bf'}
+  - {seq: 1, role: markers, filename: assets/KR6i0356_001-T.markers.yaml, hash: 'sha256:b7a92080783f7c67406b84d4727e70d08af0de3993fd1176a5fced601fbe52ab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0356_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4719
+  label: 相續解脫地波羅蜜了義經一卷
+  type: juan
+  level: 1
+hash: sha256:1c3aacbaa2f1db0fe6e9c64192ac11ea45cdefd1091f3c8a6dd34548faa00919
