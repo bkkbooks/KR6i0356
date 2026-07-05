@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0356_000.yaml, hash: 'sha256:6fd013803ed736a5caaf4d0fe3c16188e958312c388b062210e5142792a5dece'}
-  - {seq: 1, filename: KR6i0356_001.yaml, hash: 'sha256:cfc60c209d2e2a73130aef513f7461ac79288b47c29b17250ff07afe19906faf'}
+  - {seq: 1, filename: KR6i0356_001.yaml, hash: 'sha256:34f724fde010b1215dd17e895ba4b69a13abfe1a9ed1d5e76c8901505c0ed5e7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0356_001.markers.yaml, hash: 'sha256:ddd6d0a4628e5872542aba16ed932140568eb048978a66486d23a61f1f1df718'}
+  - {seq: 0, role: markers, filename: assets/KR6i0356_000.markers.yaml, hash: 'sha256:cf089508d30d4bc384f0930693e35fc6ea597eba4a38792c907f0b73dfe822b9'}
+  - {seq: 1, role: markers, filename: assets/KR6i0356_001.markers.yaml, hash: 'sha256:9322a6938b9ab4652da7bbad4e5adedc7c2f59c482513479209450c080c9b1ac'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 相續解脫地波羅蜜了義經一卷
   type: juan
   level: 1
-hash: sha256:ebe9f6c11c73936589353d03f1e6c05d21ceb7480757f1261ee72736d95a704a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4252fec51a256cf3befccdd6a8d0ed0eee5df0cbb93a7617b3460c21f7254bbb
