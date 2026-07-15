@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0356/v1
 canonical_location: https://kanripo.org/bkk/KR6i0356/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 相續解脫地波羅蜜了義經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0356_000.yaml, hash: 'sha256:6fd013803ed736a5caaf4d0fe3c16188e958312c388b062210e5142792a5dece'}
-  - {seq: 1, filename: KR6i0356_001.yaml, hash: 'sha256:34f724fde010b1215dd17e895ba4b69a13abfe1a9ed1d5e76c8901505c0ed5e7'}
+  - {seq: 1, filename: KR6i0356_001.yaml, hash: 'sha256:1cc72a00707043073f08f39c134f0d930044b63d291a04956997fe2d0d0714d3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0356_000.markers.yaml, hash: 'sha256:cf089508d30d4bc384f0930693e35fc6ea597eba4a38792c907f0b73dfe822b9'}
-  - {seq: 1, role: markers, filename: assets/KR6i0356_001.markers.yaml, hash: 'sha256:9322a6938b9ab4652da7bbad4e5adedc7c2f59c482513479209450c080c9b1ac'}
+  - {seq: 1, role: markers, filename: assets/KR6i0356_001.markers.yaml, hash: 'sha256:150dfa702f094122cbae786b6e06782fbcba6286672f14e265b2710c4561f1cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 相續解脫地波羅蜜了義經一卷
   type: juan
   level: 1
-hash: sha256:4252fec51a256cf3befccdd6a8d0ed0eee5df0cbb93a7617b3460c21f7254bbb
+hash: sha256:e2fbe8ce8ea9bfad327fcde30a9e05e68ff7c8e82818ae901da237657f5a3a3b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
