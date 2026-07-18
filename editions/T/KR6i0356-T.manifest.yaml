@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6i0356_000-T.yaml, hash: 'sha256:6fd013803ed736a5caaf4d0fe3c16188e958312c388b062210e5142792a5dece'}
   - {seq: 1, filename: KR6i0356_001-T.yaml, hash: 'sha256:34f724fde010b1215dd17e895ba4b69a13abfe1a9ed1d5e76c8901505c0ed5e7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0356_000-T.markers.yaml, hash: 'sha256:0d0d2e48bf1812384872f8304e365de720a081166c0edc575786cbe4383e53bf'}
+  - {seq: 0, role: markers, filename: assets/KR6i0356_000-T.markers.yaml, hash: 'sha256:eabd8fbb79e59a289d55d95ed206aa772e66fff48edf0b06b2c7d2c8830464d8'}
   - {seq: 1, role: markers, filename: assets/KR6i0356_001-T.markers.yaml, hash: 'sha256:b7a92080783f7c67406b84d4727e70d08af0de3993fd1176a5fced601fbe52ab'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 相續解脫地波羅蜜了義經一卷
   type: juan
   level: 1
-hash: sha256:1c3aacbaa2f1db0fe6e9c64192ac11ea45cdefd1091f3c8a6dd34548faa00919
+hash: sha256:08616c2e597c6d41adb4998ec9804208330f7e9ecbbc1f4ae559842edadecba7
